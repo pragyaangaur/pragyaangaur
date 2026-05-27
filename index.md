@@ -11,4 +11,4 @@ title: Home
 
 ## Writing
 
-- [A Physical Model of Ender Pearls and the Collapse of Game Reality](posts/ender-pearl.md)
+- [The Terrifying Physics of the Ender Pearl](posts/ender-pearl.md)
