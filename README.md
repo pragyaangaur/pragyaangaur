@@ -17,7 +17,7 @@ Engineering Physics at **National Institute of Technology Agartala**.
 ### Founder and Lead Inventor of SkyCatcher
 *2024 - Present*
 
-- Designed and prototyped a catalytic oxidation reactor for industrial sulfur dioxide (SO₂) capture and conversion into sulfuric acid (H₂SO₄)
+- Designed and prototyped a catalytic oxidation reactor for industrial sulfur dioxide ($\mathrm{SO_2}$) capture and conversion into sulfuric acid ($\mathrm{H_2SO_4}$)
 - Developed computational thermodynamic and kinetic models in Wolfram Mathematica to estimate reactor efficiency limits
 - Achieved TRL-4 validation and filed a provisional patent application
 - Awarded €20,000 Mercedes-Benz Pioneer Grant and $7,000 Emergent Ventures Grant from George Mason University
