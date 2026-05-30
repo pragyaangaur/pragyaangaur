@@ -2,8 +2,8 @@ Here's me typecasted into a Markdown file.
 
 ## Education
 
-Engineering Physics at **National Institute of Technology Agartala**.  
-*CGPA: 9.41/10*
+Engineering Physics sophomore at **National Institute of Technology Agartala**.  
+*CGPA: 9.4/10*
 
 ## Experience
 
@@ -26,7 +26,6 @@ Engineering Physics at **National Institute of Technology Agartala**.
 
 - Mercedes-Benz Fellow
 - Honourable Mention, Stanford University's Global Sustainability Challenge
-- Emergent Ventures Grantee
 - International Physics Competition — Gold Honour
 - International Youth Math Challenge — Gold Honour
 
