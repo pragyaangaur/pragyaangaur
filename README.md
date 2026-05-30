@@ -77,4 +77,4 @@ Engineering Physics sophomore at **National Institute of Technology Agartala**.
 
 ---
 
-Find my work in the repositories below.
+Find my work in my [repositories](https://github.com/pragyaangaur?tab=repositories) and [writings](https://github.com/pragyaangaur/Writings).
