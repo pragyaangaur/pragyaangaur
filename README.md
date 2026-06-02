@@ -2,7 +2,7 @@ Here's me typecasted into a Markdown file.
 
 ## Education
 
-Engineering Physics sophomore at **National Institute of Technology Agartala**.  
+Engineering Physics freshman at **National Institute of Technology Agartala**.  
 *CGPA: 9.4/10*
 
 ## Experience
