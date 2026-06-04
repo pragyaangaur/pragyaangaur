@@ -62,8 +62,6 @@ Engineering Physics freshman at **National Institute of Technology Agartala**.
   ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
   ![](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) 
   ![](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) 
-  ![](https://img.shields.io/badge/AstroPy-362D59?style=flat-square) 
-  ![](https://img.shields.io/badge/SunPy-F6B26B?style=flat-square) 
   ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white)
 
 - Programming & Development: 
