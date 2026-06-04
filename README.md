@@ -38,18 +38,23 @@ Engineering Physics freshman at **National Institute of Technology Agartala**.
     <td>May 2026, April 2025</td>
   </tr>
   <tr>
+    <td>Technical University of Munich (TUM)</td>
+    <td>Munich, Germany</td>
+    <td>April 2026</td>
+  </tr>
+  <tr>
     <td>Emergent Ventures Unconference</td>
-    <td>Bengaluru</td>
+    <td>Bengaluru, India</td>
     <td>December 2025</td>
   </tr>
   <tr>
     <td>Defence Research and Development Organisation (DRDO)</td>
-    <td>New Delhi</td>
+    <td>New Delhi, India</td>
     <td>September 2023</td>
   </tr>
   <tr>
     <td>National Physical Laboratory (NPL)</td>
-    <td>New Delhi</td>
+    <td>New Delhi, India</td>
     <td>April 2023</td>
   </tr>
 </table>
