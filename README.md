@@ -3,7 +3,7 @@ Here's me typecasted into a Markdown file.
 ## Education
 
 Engineering Physics freshman at **National Institute of Technology Agartala**.  
-*CGPA: 9.4/10*
+CGPA: 9.4/10
 
 ## Experience
 
@@ -25,7 +25,7 @@ Engineering Physics freshman at **National Institute of Technology Agartala**.
 ## Honours & Awards
 
 - Mercedes-Benz Fellow
-- Honourable Mention, Stanford University's Global Sustainability Challenge
+- Honourable Mention & South Asia Winner, Stanford University's Global Sustainability Challenge
 - International Physics Competition — Gold Honour
 - International Youth Math Challenge — Gold Honour
 
@@ -38,7 +38,7 @@ Engineering Physics freshman at **National Institute of Technology Agartala**.
     <td>May 2026, April 2025</td>
   </tr>
   <tr>
-    <td>Technical University of Munich (TUM)</td>
+    <td>Technical University of Munich (TUM) Entrepreneurship Research Institute</td>
     <td>Munich, Germany</td>
     <td>April 2026</td>
   </tr>
