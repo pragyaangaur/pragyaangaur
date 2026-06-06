@@ -29,7 +29,7 @@ A collection of moments where judges, committees, and statistics happened to agr
 - International Physics Competition — Gold Honour
 - International Youth Math Challenge — Gold Honour
 
-## Some Places I've Spoken At
+## Some Places I've Shared My Work
 
 Proof that the work occasionally leaves my laptop.
 
