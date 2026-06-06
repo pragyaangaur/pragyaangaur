@@ -17,7 +17,7 @@ The Sun has been doing its thing for 4.6 billion years. I’m trying to make sen
 - Designed and prototyped a catalytic oxidation reactor for industrial sulfur dioxide SO₂ capture and conversion into sulfuric acid (H₂SO₄)
 - Developed computational thermodynamic and kinetic models in Wolfram Mathematica to estimate reactor efficiency limits
 - Achieved TRL-4 validation and filed a provisional patent application
-- Awarded $30,000+ in grants from Emergent Ventures and Mercedes-Benz.
+- Awarded $30,000+ in grants from Emergent Ventures and beVisioneers: The Mercedes-Benz Fellowship.
 
 Originally a science project that went out of control.
 
@@ -25,7 +25,6 @@ Originally a science project that went out of control.
 
 A collection of moments where judges, committees, and statistics happened to agree with me.
 
-- Mercedes-Benz Fellow
 - Honourable Mention & South Asia Winner, Stanford University's Global Sustainability Challenge
 - International Physics Competition — Gold Honour
 - International Youth Math Challenge — Gold Honour
@@ -36,7 +35,7 @@ Proof that the work occasionally leaves my laptop.
 
 <table>
   <tr>
-    <td>Mercedes-Benz Global Summit</td>
+    <td>beVisioneers: The Mercedes-Benz Fellowship Global Summit</td>
     <td>Stuttgart, Germany</td>
     <td>May 2026, April 2025</td>
   </tr>
