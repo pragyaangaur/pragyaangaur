@@ -17,7 +17,7 @@ The Sun has been doing its thing for 4.6 billion years. I’m trying to make sen
 - Designed and prototyped a catalytic oxidation reactor for industrial sulfur dioxide SO₂ capture and conversion into sulfuric acid (H₂SO₄)
 - Developed computational thermodynamic and kinetic models in Wolfram Mathematica to estimate reactor efficiency limits
 - Achieved TRL-4 validation and filed a provisional patent application
-- Awarded $30,000+ in grants from Emergent Ventures and beVisioneers: The Mercedes-Benz Fellowship.
+- Supported by grants from Emergent Ventures and beVisioneers: The Mercedes-Benz Fellowship.
 
 Originally a science project that went out of control.
 
